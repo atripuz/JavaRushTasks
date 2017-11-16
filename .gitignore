@@ -24,6 +24,7 @@ regression/*/suites/failure/
 
 regression/reports/
 
+
 ## iml files
 **/*.iml
 
